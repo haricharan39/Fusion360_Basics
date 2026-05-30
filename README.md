@@ -99,8 +99,3 @@ My interest in robotics and automation motivated me to explore CAD modeling and 
 
 Through these projects, I aim to improve my skills in mechanical design, embedded systems integration, and intelligent automation technologies while building a strong foundation for future robotics and engineering projects.
 
-## Author
-
-Hari Charan 
-BTech Mechanical Engineering 
-Indian Institute of Technology Tirupati.
